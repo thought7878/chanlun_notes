@@ -13,3 +13,5 @@
 [wikipedia](https://zh.wikipedia.org/wiki/MACD)
 
 [百度百科视频](https://baike.baidu.com/item/MACD%E6%8C%87%E6%A0%87)
+
+![](./2_1.png)
